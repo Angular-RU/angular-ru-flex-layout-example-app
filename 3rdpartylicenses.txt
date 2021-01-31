@@ -26,6 +26,9 @@ SOFTWARE.
 @angular-ru/flex-layout
 MIT
 
+@angular-ru/sdk
+MIT
+
 @angular/animations
 MIT
 
